@@ -9,8 +9,8 @@
 **Popis vypracovania:**
 
 Implementácia klienta pre triviálny (read-only) distribuovaný súborový systém za použitia knižnice socket. 
-Využívaná UDP (klient posiela otázku na server) aj TCP (klient posiela požiadavku na server) komunikácia so serverom.
-**Podporované operácie**: GET a GET ALL
+Využívaná UDP (klient posiela otázku na server) aj TCP (klient posiela požiadavku na server) komunikácia so serverom.<br/>
+**Podporované operácie**: GET a GET ALL<br/>
 **Použitie**: 
 >fileget -n NAMESERVER -f SURL
 

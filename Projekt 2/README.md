@@ -1,4 +1,4 @@
-# Počítačové komunikácie a siete - PROJEKT 1
+# Počítačové komunikácie a siete - PROJEKT 2
 
 ## Sniffer paketov
 
